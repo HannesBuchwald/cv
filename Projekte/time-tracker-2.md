@@ -1,9 +1,11 @@
 ---
 type: Project
 title: TimeTracker 2.0
-description: Weiterentwicklung der bildgestützten TimeTracker-App für die Erfassung von Zeitnutzungsdaten in Malawi. Das Projekt von 2022 mündete in eine vergleichende Studie zu Echtzeiterfassung und rückblickenden Befragungen, veröffentlicht 2026.
+description: Weiterentwicklung der bildgestützten TimeTracker-App für die Erfassung von Zeitnutzungsdaten in Malawi. Das Projekt von Juli 2022 bis März 2023 mündete in eine vergleichende Studie zu Echtzeiterfassung und rückblickenden Befragungen, veröffentlicht 2026.
 tags: [Forschung, Zeitnutzung, App, Malawi, Datenerhebung]
-period: "2022"
+period: "Juli 2022 bis März 2023"
+start_date: "2022-07"
+end_date: "2023-03"
 role: Projektbeteiligter und Mitautor der Veröffentlichung; konkrete Entwicklungsaufgaben noch zu ergänzen
 status: documented
 location: Malawi; Forschungsanwendung
@@ -29,7 +31,7 @@ Der Weltbank-Working-Paper-Vorläufer erläutert, dass die ursprüngliche TimeTr
 
 ## Zeitraum
 
-2022, nach persönlicher Angabe von Hannes Buchwald. Das Projektjahr ist vom Veröffentlichungsjahr zu unterscheiden: Ein Working Paper erschien im Februar 2024, die Journalfassung am 15. September 2026.
+Juli 2022 bis März 2023. Dieser im Working Paper von 2024 (Abschnitt „Study design“, PDF-Seite 7) genannte Studienzeitraum wird auf ausdrücklichen Wunsch von Hannes Buchwald als Zeitraum des Projekts TimeTracker 2.0 verwendet. Der Projektzeitraum ist von den Veröffentlichungsjahren zu unterscheiden: Ein Working Paper erschien im Februar 2024, die Journalfassung am 15. September 2026.
 
 ## Meine Rolle
 
@@ -57,4 +59,4 @@ Bilder der Version 2.0 und ein zugehöriges Code-Repository können noch ergänz
 
 ## Quellen
 
-Die Forschungsbeschreibung beruht auf dem Abstract und den bibliografischen Angaben der Journalfassung von 2026. Der Hinweis auf die Weiterentwicklung beruht auf dem Working Paper von 2024. Projektname „TimeTracker 2.0“, Projektjahr 2022 und persönliche Beteiligung wurden von Hannes Buchwald am 12. Oktober 2026 angegeben.
+Die Forschungsbeschreibung beruht auf dem Abstract und den bibliografischen Angaben der Journalfassung von 2026. Der Hinweis auf die Weiterentwicklung beruht auf dem Working Paper von 2024. Projektname „TimeTracker 2.0“ und persönliche Beteiligung wurden von Hannes Buchwald am 12. Oktober 2026 angegeben. Die Verwendung des belegten Studienzeitraums Juli 2022 bis März 2023 als Projektzeitraum wurde von ihm ausdrücklich bestätigt.
