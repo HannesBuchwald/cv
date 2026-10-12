@@ -20,8 +20,6 @@ Diese Seite bündelt die bisher gefundenen und zugeordneten Veröffentlichungen 
 
 ## Papers
 
-Hannes Buchwald ist bei den folgenden sechs bibliografischen Einträgen als Mitautor genannt. Working Paper und Journalfassung von „Recording the Time Divide“ sind Versionen derselben Arbeit.
-
 ### 2026
 
 - [Recording the time divide: A comparative study of smartphone- and recall-based approaches to time use measurement](https://doi.org/10.1093/jae/ejag012) — Talip Kilic, Gayatri Koolwal, Wilbert Drazi Vundru, Thomas Daum, Hannes Buchwald, Greg Seymour, Peter Mvula, Alister Munthali und Monice Kachinjika. Journal of African Economies, 2026, ejag012; veröffentlicht am 15. September 2026. Autorenschaft und Datum auf der [Verlagsseite](https://academic.oup.com/jae/article-abstract/35/5/ejag012/8801932) geprüft.
