@@ -9,6 +9,7 @@ status: documented
 institutions: [Universität Hohenheim, Hochschule der Medien Stuttgart]
 location: Ländliches Sambia; Forschungsanwendung
 resource: http://timetracker.cc/
+repository: https://github.com/HannesBuchwald/TimeTracker
 sources:
   - http://timetracker.cc/
 ---
@@ -70,6 +71,8 @@ Alle folgenden Links und Datumsangaben wurden aus dem Bereich „Publications“
 - [GIL 2018 Conference](https://www.gil-net.de/Tagung/) — GIL-Jahrestagung, Kiel, 26.–27. Februar 2018.
 
 ## Bilder und Links
+
+- [TimeTracker – Quellcode auf GitHub](https://github.com/HannesBuchwald/TimeTracker).
 
 - [TimeTracker – Projektwebseite](http://timetracker.cc/).
 
