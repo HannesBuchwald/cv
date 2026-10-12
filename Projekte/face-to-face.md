@@ -1,7 +1,11 @@
 ---
 type: Project
 title: Face to Face
-description: Porträtfotografie von Hannes Buchwald in der Ausstellung Face to Face der Städtischen Museen Heilbronn im Deutschhof, 2009.
+description: >-
+  Im Mittelpunkt von Buchwalds Fotografie stehen Menschen mit ihren individuellen
+  Geschichten. Seine Bilder sollen Begegnungen auf Augenhöhe ermöglichen und die
+  Würde der Porträtierten sichtbar machen. Gezeigt wurden unter anderem
+  Modeporträts und Fotografien obdachloser Menschen in London.
 tags: [Fotografie, Porträt, Ausstellung, Museum]
 period: "2009"
 role: Fotograf und ausstellender Künstler
