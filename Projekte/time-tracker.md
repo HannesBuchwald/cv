@@ -5,11 +5,13 @@ description: Bildgestützte Smartphone-App zur zeitnahen Erfassung von Forschung
 tags: [Forschung, App-Entwicklung, Design, Datenerhebung, Entwicklungsforschung]
 period: null
 role: Coding & Design
-institutions: [Universität Hohenheim, Hochschule der Medien Stuttgart]
+institutions: [Universität Hohenheim, Hochschule der Medien Stuttgart, IAPRI]
 partners:
   - name: Universität Hohenheim
     role: Kooperationspartner
   - name: Hochschule der Medien Stuttgart
+    role: Kooperationspartner
+  - name: IAPRI
     role: Kooperationspartner
 location: Ländliches Sambia; Forschungsanwendung
 resource: http://timetracker.cc/
@@ -38,6 +40,7 @@ Hannes Buchwald wird auf der Projektwebseite mit der Rolle „Coding & Design“
 
 - **Universität Hohenheim** — Kooperationspartner.
 - **Hochschule der Medien Stuttgart** — Kooperationspartner.
+- **IAPRI** — Kooperationspartner, nach Angabe von Hannes Buchwald; auf der Projektwebseite durch das Institutslogo vertreten.
 
 ## Zusammenarbeit
 
