@@ -7,7 +7,7 @@ period: "Juli 2022 bis März 2023"
 start_date: "2022-07"
 end_date: "2023-03"
 role: Coding & Design
-location: Malawi; Forschungsanwendung
+location: Malawi
 scope: null
 related_project: time-tracker.md
 sources:
