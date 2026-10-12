@@ -9,7 +9,6 @@ description: >-
 tags: [Fotografie, Porträt, Ausstellung, Museum]
 period: "2009"
 role: Fotograf und ausstellender Künstler
-status: documented
 location: Städtische Museen Heilbronn, Deutschhof
 exhibition_end: "2009-10-04"
 sources:

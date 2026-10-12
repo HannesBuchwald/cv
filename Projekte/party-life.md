@@ -7,7 +7,6 @@ period: "2009–2010"
 start_date: "2009-12-20"
 end_date: "2010-01-12"
 role: Fotograf und ausstellender Künstler
-status: documented
 location: Basementizid, Wollhausstraße 17, Heilbronn
 sources:
   - https://www.carhartt-wip.com/en/journal/skate/2009/12/hannes-buchwald-party-life-20-12-2009-12-01-2010

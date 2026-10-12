@@ -5,7 +5,6 @@ description: Praxisorientierter Spieleentwicklungskurs für die Klassen 11 bis 1
 tags: [Lehre, Spieleentwicklung, Programmierung, Game Design]
 period: "2016/2017"
 role: Verantwortlicher Dozent für den Spieleentwicklungskurs
-status: documented
 institution: Kolping Schule für Gestaltung Heilbronn
 technologies: [HTML, CSS, JavaScript]
 audience: Klassen 11 bis 13; keine Programmierkenntnisse erforderlich

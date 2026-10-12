@@ -5,7 +5,6 @@ description: Bildgestützte Smartphone-App zur zeitnahen Erfassung von Forschung
 tags: [Forschung, App-Entwicklung, Design, Datenerhebung, Entwicklungsforschung]
 period: null
 role: Coding & Design
-status: documented
 institutions: [Universität Hohenheim, Hochschule der Medien Stuttgart]
 location: Ländliches Sambia; Forschungsanwendung
 resource: http://timetracker.cc/

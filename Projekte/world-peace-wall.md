@@ -5,7 +5,6 @@ description: Hannes Buchwald war Fotograf bei Julian Vogels Peace-Wall-Projekt i
 tags: [Kunst, Street-Art, Friedensprojekt, Zusammenarbeit]
 period: "2010"
 role: Fotograf
-status: documented
 location: Cluj-Napoca, Rumänien
 artist: Julian Vogel
 image: https://julianvogel.me/assets/images/7/wpw_romania-3de38bc5.jpg
