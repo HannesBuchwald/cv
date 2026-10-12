@@ -53,11 +53,9 @@ Hannes Buchwald ist bei den folgenden sechs bibliografischen Einträgen als Mita
 - [„Time-Tracker-App“ – Kleinbauern in Afrika nutzen Arbeitszeiterfassung per Smartphone](https://www.landtechnik-online.eu/ojs-2.4.5/index.php/landtechnik/announcement) — Landtechnik, 12. Januar 2017. · Projekt: Time Tracker
 - [App zeigt Arbeitsbelastung afrikanischer Kleinbauern auf](https://www.glaubeaktuell.net/nachrichten/wirtschaft/) — Glaubeaktuell, 11. Januar 2017. · Projekt: Time Tracker
 
-### 2010
+### 2009
 
 - [Hannes Buchwald „PARTY LIFE“ 20.12.2009–12.01.2010](https://www.carhartt-wip.com/en/journal/skate/2009/12/hannes-buchwald-party-life-20-12-2009-12-01-2010) — Carhartt WIP Journal, 18. Dezember 2009. Ausstellungshinweis; kein unabhängiger Pressebericht. · Projekt: Weitere fotografische Arbeiten
-
-### 2009
 
 - [Den Menschen in seiner Würde darstellen](https://www.stimme.de/archiv/neckar-zaber/sonstige-den-menschen-in-seiner-wuerde-darstellen-art-1649790) — Annette Gast-Prior, Heilbronner Stimme, 24. September 2009. Bericht über Buchwalds Porträtfotografie und die Ausstellung in den Städtischen Museen Heilbronn. · Projekt: Face to Face
 
