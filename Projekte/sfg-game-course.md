@@ -6,6 +6,9 @@ tags: [Lehre, Spieleentwicklung, Programmierung, Game Design]
 period: "2016/2017"
 role: Verantwortlicher Dozent für den Spieleentwicklungskurs
 institution: Kolping Schule für Gestaltung Heilbronn
+partners:
+  - name: Kolping-Schule für Gestaltung Heilbronn
+    role: Institut
 technologies: [HTML, CSS, JavaScript]
 audience: Klassen 11 bis 13; keine Programmierkenntnisse erforderlich
 resource: http://sfg-games.hannesbuchwald.com/
@@ -28,6 +31,10 @@ Zum Einsatz kommen HTML, CSS und JavaScript. Die Kurswebseite erklärt, dass die
 ## Meine Rolle
 
 Hannes Buchwald wird auf der Kurswebseite als Dozent an der SfG Heilbronn und Verantwortlicher für den Spieleentwicklungskurs genannt.
+
+## Partner
+
+- **Kolping-Schule für Gestaltung Heilbronn** — Institut.
 
 ## Kursinhalte
 
