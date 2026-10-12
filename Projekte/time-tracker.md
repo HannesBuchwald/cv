@@ -6,6 +6,11 @@ tags: [Forschung, App-Entwicklung, Design, Datenerhebung, Entwicklungsforschung]
 period: null
 role: Coding & Design
 institutions: [Universität Hohenheim, Hochschule der Medien Stuttgart]
+partners:
+  - name: Universität Hohenheim
+    role: Kooperationspartner
+  - name: Hochschule der Medien Stuttgart
+    role: Kooperationspartner
 location: Ländliches Sambia; Forschungsanwendung
 resource: http://timetracker.cc/
 repository: https://github.com/HannesBuchwald/TimeTracker
@@ -28,6 +33,11 @@ Der genaue Projektzeitraum wird noch ergänzt. Die Projektwebseite führt Veröf
 ## Meine Rolle
 
 Hannes Buchwald wird auf der Projektwebseite mit der Rolle „Coding & Design“ genannt.
+
+## Partner
+
+- **Universität Hohenheim** — Kooperationspartner.
+- **Hochschule der Medien Stuttgart** — Kooperationspartner.
 
 ## Zusammenarbeit
 
