@@ -11,6 +11,15 @@ updated: "2026-10-12"
 
 Diese Seite bündelt die bisher gefundenen und zugeordneten Veröffentlichungen und Projektquellen. Sie ist erweiterbar und erhebt keinen Anspruch auf Vollständigkeit. Presseberichte, Team-Auszeichnungen und Veranstaltungsnennungen sind von eigener Autorenschaft getrennt. Einige historische Links führen zu Übersichtsseiten oder wurden noch nicht auf Erreichbarkeit geprüft.
 
+## Awards
+
+Die Auszeichnung bezieht sich auf das TimeTracker-Projektteam; sie wird hier nicht als persönlicher Einzelpreis ausgewiesen.
+
+### 2018
+
+- [Award: Landmark 2018](https://land-der-ideen.de/projekt/forschungs-app-time-tracker-3795) — Germany Land of Ideas / Deutschland – Land der Ideen, 4. Juni 2018 laut Projektwebseite.
+
+
 ## Papers
 
 Hannes Buchwald ist bei den folgenden sechs bibliografischen Einträgen als Mitautor genannt. Working Paper und Journalfassung von „Recording the Time Divide“ sind Versionen derselben Arbeit.
@@ -62,15 +71,6 @@ Hannes Buchwald ist bei den folgenden sechs bibliografischen Einträgen als Mita
 ### Weitere Links
 
 - [Weitere Veröffentlichungen auf der Projektwebseite](http://timetracker.cc/creative-corporation/press/). · Projekt: Time Tracker
-
-
-## Awards
-
-Die Auszeichnung bezieht sich auf das TimeTracker-Projektteam; sie wird hier nicht als persönlicher Einzelpreis ausgewiesen.
-
-### 2018
-
-- [Award: Landmark 2018](https://land-der-ideen.de/projekt/forschungs-app-time-tracker-3795) — Germany Land of Ideas / Deutschland – Land der Ideen, 4. Juni 2018 laut Projektwebseite.
 
 
 ## Präsentationen
