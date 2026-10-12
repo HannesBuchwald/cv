@@ -1,19 +1,26 @@
 ---
 type: Project
-title: Peace Wall – Cluj
+title: World Peace Wall
 description: Hannes Buchwald war Fotograf bei Julian Vogels Peace-Wall-Projekt in Cluj-Napoca, Rumänien, 2010.
 tags: [Kunst, Street-Art, Friedensprojekt, Zusammenarbeit]
 period: "2010"
 role: Fotograf
-status: draft
+status: documented
 location: Cluj-Napoca, Rumänien
 artist: Julian Vogel
+image: https://julianvogel.me/assets/images/7/wpw_romania-3de38bc5.jpg
+image_credit: Hannes Buchwald
+image_source: https://julianvogel.me/cluj-napoca
+duration: eine Woche
+partners: [peaceworkers.de, World Peace Wall]
 sources:
+  - https://de.linkedin.com/in/hannes-buchwald-2806915a
+  - https://julianvogel.me/cluj-napoca
   - https://www.julianvogel.me/files/home/infinite-Peacewall_project2021.pdf
   - https://julianvogel.me/
 ---
 
-# Peace Wall – Cluj
+# World Peace Wall
 
 ## Beschreibung
 
@@ -27,7 +34,7 @@ Die übergreifende Reihe „World Peace Walls“ verbindet Wandmalerei mit Fried
 
 ## Meine Rolle
 
-Fotograf beim Projekt, von Hannes Buchwald bestätigt. Details zu den entstandenen Fotografien können noch ergänzt werden.
+Fotograf beim Projekt, von Hannes Buchwald bestätigt. Sein öffentliches LinkedIn-Profil beschreibt eine einwöchige fotografische Dokumentation eines Kunst- und Hilfsprojekts in Zusammenarbeit von peaceworkers.de und „World Peace Wall“. Details zu den entstandenen Fotografien können noch ergänzt werden.
 
 ## Ergebnisse
 
@@ -35,9 +42,15 @@ Noch zu ergänzen.
 
 ## Bilder und Links
 
-Eigene Projektbilder können noch ergänzt werden.
+![World Peace Wall in Cluj-Napoca – Foto von Hannes Buchwald](https://julianvogel.me/assets/images/7/wpw_romania-3de38bc5.jpg)
+
+Foto: Hannes Buchwald, nach eigener Angabe. Eingebunden von [Julian Vogels Projektseite zu Cluj-Napoca](https://julianvogel.me/cluj-napoca). Weitere eigene Projektbilder können ergänzt werden.
 
 ## Quellen
+
+- [LinkedIn-Profil von Hannes Buchwald](https://de.linkedin.com/in/hannes-buchwald-2806915a): Eintrag „The 9th PEACEWALL in Cluj - Romania“, 2010; eine Woche fotografische Dokumentation und genannte Zusammenarbeit.
+
+- [World Peace Wall in Cluj-Napoca – Julian Vogels Projektseite](https://julianvogel.me/cluj-napoca): Projektfoto.
 
 - [Peacewall-Projektbroschüre von Julian Vogel](https://www.julianvogel.me/files/home/infinite-Peacewall_project2021.pdf): nennt „2010 Cluj Napoca – Rumänien“ und beschreibt die übergreifende Projektidee.
 - [Webseite von Julian Vogel](https://julianvogel.me/).
