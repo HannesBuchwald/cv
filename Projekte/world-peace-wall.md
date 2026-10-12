@@ -11,7 +11,13 @@ image: https://julianvogel.me/assets/images/7/wpw_romania-3de38bc5.jpg
 image_credit: Hannes Buchwald
 image_source: https://julianvogel.me/cluj-napoca
 duration: eine Woche
-partners: [peaceworkers.de, World Peace Wall]
+partners:
+  - name: Julian Vogel
+    role: Artist
+  - name: peaceworkers.de
+    role: Kooperationspartner
+  - name: World Peace Wall
+    role: Projektinitiative
 sources:
   - https://de.linkedin.com/in/hannes-buchwald-2806915a
   - https://julianvogel.me/cluj-napoca
@@ -34,6 +40,12 @@ Die übergreifende Reihe „World Peace Walls“ verbindet Wandmalerei mit Fried
 ## Meine Rolle
 
 Fotograf beim Projekt, von Hannes Buchwald bestätigt. Sein öffentliches LinkedIn-Profil beschreibt eine einwöchige fotografische Dokumentation eines Kunst- und Hilfsprojekts in Zusammenarbeit von peaceworkers.de und „World Peace Wall“. Details zu den entstandenen Fotografien können noch ergänzt werden.
+
+## Partner
+
+- **Julian Vogel** — Artist.
+- **peaceworkers.de** — Kooperationspartner.
+- **World Peace Wall** — Projektinitiative.
 
 ## Ergebnisse
 
