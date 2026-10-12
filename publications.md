@@ -42,7 +42,7 @@ Diese Seite bündelt die bisher gefundenen und zugeordneten Veröffentlichungen 
 - [The Potential of Apps to Study Smallholder Farming Systems and More](https://www.rural21.com/uploads/media/rural2017_04-S45-47.pdf) — Thomas Daum, Regina Birner, Hannes Buchwald und Ansgar Gerlicher. Rural21, 2017, Ausgabe 4, S. 45–47. [Artikel beim Herausgeber](https://www.rural21.com/english/a-closer-look-at/detail/article/the-potential-of-apps-to-study-smallholder-farming-systems-and-more.html). Die Projektwebseite nennt April 2017; die genaue Monatsangabe bleibt hier offen.
 
 
-## Präsentationen
+## Konferenzen & Ausstellungen
 
 Die folgenden Konferenzen werden auf der TimeTracker-Projektwebseite genannt. Ob Hannes Buchwald jeweils selbst vorgetragen hat, ist damit nicht belegt.
 
@@ -53,6 +53,14 @@ Die folgenden Konferenzen werden auf der TimeTracker-Projektwebseite genannt. Ob
 - [ICBAR 2018](http://www.worldbank.org/en/events/2017/10/11/disruptive-innovations-value-chains-and-rural-development) — International Consortium on Applied Bioeconomy Research, Weltbank, Washington, D.C., 12.–15. Juni 2018 laut Projektwebseite. Die verlinkte URL enthält 2017; diese Abweichung ist noch ungeprüft.
 - [GIL 2018 Conference](https://www.gil-net.de/Tagung/) — GIL-Jahrestagung, Kiel, 26.–27. Februar 2018.
 
+
+### 2009–2010
+
+- [Party Life](Projekte/party-life.md) — Fotoausstellung im Basementizid, Heilbronn, 20. Dezember 2009 bis 12. Januar 2010. [Ausstellungsbeitrag](https://basementizid.wordpress.com/2010/01/10/hannes-buchwald-party-life-20-dezember-09-bis-12-januar-10/).
+
+### 2009
+
+- [Face to Face](Projekte/face-to-face.md) — Städtische Museen Heilbronn, Deutschhof, bis 4. Oktober 2009. [Pressebericht](https://www.stimme.de/archiv/neckar-zaber/sonstige-den-menschen-in-seiner-wuerde-darstellen-art-1649790).
 
 ## Presseberichte
 
@@ -69,6 +77,10 @@ Die folgenden Konferenzen werden auf der TimeTracker-Projektwebseite genannt. Ob
 - [Aufschlussreiches Klick-Tagebuch](http://www.stuttgarter-zeitung.de/inhalt.hochschule-der-medien-und-uni-hohenheim-forschen-in-afrika-aufschlussreiches-klick-tagebuch.cbecb83e-7405-4c4c-9af2-2b4f32dd54fb.html) — Stuttgarter Zeitung, 7. Februar 2017. · Projekt: Time Tracker
 - [„Time-Tracker-App“ – Kleinbauern in Afrika nutzen Arbeitszeiterfassung per Smartphone](https://www.landtechnik-online.eu/ojs-2.4.5/index.php/landtechnik/announcement) — Landtechnik, 12. Januar 2017. · Projekt: Time Tracker
 - [App zeigt Arbeitsbelastung afrikanischer Kleinbauern auf](https://www.glaubeaktuell.net/nachrichten/wirtschaft/) — Glaubeaktuell, 11. Januar 2017. · Projekt: Time Tracker
+
+### 2010
+
+- [Im Rausch der Nacht](https://basementizid.wordpress.com/2010/01/05/im-rausch-der-nacht-von-michaela-adick/) — Michaela Adick, im Basementizid-Blog am 5. Januar 2010 wiedergegeben. Bericht über Party Life.
 
 ### 2009
 
@@ -97,6 +109,7 @@ Diese Quellen sind Künstler- und Projektinformationen, keine unabhängigen Pres
 - [World Peace Wall](Projekte/world-peace-wall.md)
 - [SfG Game Course](Projekte/sfg-game-course.md)
 - [Time Tracker](Projekte/time-tracker.md)
+- [Party Life](Projekte/party-life.md)
 
 ## Recherchegrundlage
 
