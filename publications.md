@@ -13,8 +13,6 @@ Diese Seite bündelt die bisher gefundenen und zugeordneten Veröffentlichungen 
 
 ## Awards
 
-Die Auszeichnung bezieht sich auf das TimeTracker-Projektteam; sie wird hier nicht als persönlicher Einzelpreis ausgewiesen.
-
 ### 2018
 
 - [Award: Landmark 2018](https://land-der-ideen.de/projekt/forschungs-app-time-tracker-3795) — Germany Land of Ideas / Deutschland – Land der Ideen, 4. Juni 2018 laut Projektwebseite.
