@@ -73,7 +73,9 @@ Alle folgenden Links und Datumsangaben wurden aus dem Bereich „Publications“
 
 - [TimeTracker – Projektwebseite](http://timetracker.cc/).
 
-Eigene Projektbilder können noch ergänzt werden.
+![TimeTracker – bildgestützte App-Oberfläche](../assets/time-tracker/app.png)
+
+App-Abbildung lokal gespeichert von der [TimeTracker-Projektwebseite](http://timetracker.cc/). Original: http://timetracker.cc/wp-content/uploads/2017/05/timetracker-front-uai-516x969.png
 
 ## Quellen
 

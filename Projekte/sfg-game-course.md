@@ -47,7 +47,11 @@ Die Kurswebseite dokumentiert den ersten Kurs 2016/2017 und verlinkt die individ
 - [Kurswebseite und Übersicht der Spiele](http://sfg-games.hannesbuchwald.com/).
 - [Spiel von Hannes Buchwald](http://sfg-games.hannesbuchwald.com/kurse/2016_01/hannes/index.html).
 
-Eigene Projektbilder können noch ergänzt werden.
+![Vorschaubild des Spiels von Hannes Buchwald](../assets/sfg-game-course/spiel-hannes.jpg)
+
+![HTML, CSS und JavaScript – Technologien des Kurses](../assets/sfg-game-course/technologien.png)
+
+Beide Abbildungen lokal von der [Kurswebseite](http://sfg-games.hannesbuchwald.com/) gespeichert. Originale: http://sfg-games.hannesbuchwald.com/images/thumbnail_hannes.jpg und http://sfg-games.hannesbuchwald.com/images/icon_html5_css_js.png
 
 ## Quellen
 
