@@ -6,7 +6,7 @@ tags: [Forschung, Zeitnutzung, App, Malawi, Datenerhebung]
 period: "Juli 2022 bis März 2023"
 start_date: "2022-07"
 end_date: "2023-03"
-role: Entwickler und Mitautor der Veröffentlichung
+role: Coding & Design
 status: documented
 location: Malawi; Forschungsanwendung
 scope: null
@@ -28,7 +28,7 @@ In einer randomisierten Studie wurden Haushalte sowie erwachsene Frauen und Män
 
 Die 2026 veröffentlichte Studie zeigt, dass sich die erfasste Zeitnutzung je nach Methode unterscheidet. Echtzeiterfassung macht mehr Beteiligung an Erwerbsarbeit und unbezahlter Arbeit sichtbar. Rückblickende Tagebücher erfassen Abendaktivitäten und parallele Tätigkeiten weniger vollständig; feste Zeitintervalle können zugleich die angegebenen Aktivitätsdauern erhöhen.
 
-Der Weltbank-Working-Paper-Vorläufer erläutert, dass die ursprüngliche TimeTracker-App für die Studie mit Unterstützung des LSMS-Programms weiterentwickelt wurde. Hannes Buchwald war nach eigener Angabe als Entwickler beteiligt. Details zu seinen konkreten technischen Beiträgen können ergänzt werden.
+Der Weltbank-Working-Paper-Vorläufer erläutert, dass die ursprüngliche TimeTracker-App für die Studie mit Unterstützung des LSMS-Programms weiterentwickelt wurde. Hannes Buchwald war nach eigener Angabe für Coding und Design beteiligt. Details zu seinen konkreten technischen Beiträgen können ergänzt werden.
 
 ## Zeitraum
 
@@ -36,7 +36,7 @@ Juli 2022 bis März 2023. Dieser im Working Paper von 2024 (Abschnitt „Study d
 
 ## Meine Rolle
 
-Hannes Buchwald war als Entwickler an diesem zweiten TimeTracker-Projekt beteiligt, nach eigener Angabe. In der Veröffentlichung von 2026 sowie im Working Paper von 2024 ist er als Mitautor genannt. Einzelheiten seiner Entwicklungsaufgaben können noch ergänzt werden.
+Hannes Buchwald übernahm bei TimeTracker 2.0 die Rolle „Coding & Design“, nach eigener Angabe. In der Veröffentlichung von 2026 sowie im Working Paper von 2024 ist er als Mitautor genannt. Einzelheiten seiner Entwicklungsaufgaben können noch ergänzt werden.
 
 ## Ergebnisse
 
