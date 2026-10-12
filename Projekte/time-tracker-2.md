@@ -9,6 +9,9 @@ end_date: "2023-03"
 role: Coding & Design
 location: Malawi
 scope: null
+partners:
+  - name: World Bank
+    role: Auftraggeber
 related_project: time-tracker.md
 sources:
   - https://doi.org/10.1093/jae/ejag012
@@ -36,6 +39,10 @@ Juli 2022 bis März 2023. Dieser im Working Paper von 2024 (Abschnitt „Study d
 ## Meine Rolle
 
 Hannes Buchwald übernahm bei TimeTracker 2.0 die Rolle „Coding & Design“, nach eigener Angabe. In der Veröffentlichung von 2026 sowie im Working Paper von 2024 ist er als Mitautor genannt. Einzelheiten seiner Entwicklungsaufgaben können noch ergänzt werden.
+
+## Partner
+
+- **World Bank (Weltbank)** — Auftraggeber, nach Angabe von Hannes Buchwald.
 
 ## Ergebnisse
 
