@@ -44,6 +44,18 @@ Hannes Buchwald ist bei den folgenden sechs bibliografischen Einträgen als Mita
 - [The Potential of Apps to Study Smallholder Farming Systems and More](https://www.rural21.com/uploads/media/rural2017_04-S45-47.pdf) — Thomas Daum, Regina Birner, Hannes Buchwald und Ansgar Gerlicher. Rural21, 2017, Ausgabe 4, S. 45–47. [Artikel beim Herausgeber](https://www.rural21.com/english/a-closer-look-at/detail/article/the-potential-of-apps-to-study-smallholder-farming-systems-and-more.html). Die Projektwebseite nennt April 2017; die genaue Monatsangabe bleibt hier offen.
 
 
+## Präsentationen
+
+Die folgenden Konferenzen werden auf der TimeTracker-Projektwebseite genannt. Ob Hannes Buchwald jeweils selbst vorgetragen hat, ist damit nicht belegt.
+
+### 2018
+
+- [GEWISOLA 2018 Conference](http://www.gewisola2018.uni-kiel.de/de) — 58. GEWISOLA-Jahrestagung, Kiel, 12.–14. September 2018.
+- [30th International Conference of Agricultural Economists](http://www.icae2018.com/) — IAAE, Vancouver, 28. Juli–2. August 2018.
+- [ICBAR 2018](http://www.worldbank.org/en/events/2017/10/11/disruptive-innovations-value-chains-and-rural-development) — International Consortium on Applied Bioeconomy Research, Weltbank, Washington, D.C., 12.–15. Juni 2018 laut Projektwebseite. Die verlinkte URL enthält 2017; diese Abweichung ist noch ungeprüft.
+- [GIL 2018 Conference](https://www.gil-net.de/Tagung/) — GIL-Jahrestagung, Kiel, 26.–27. Februar 2018.
+
+
 ## Presseberichte
 
 
@@ -69,18 +81,6 @@ Hannes Buchwald ist bei den folgenden sechs bibliografischen Einträgen als Mita
 ### Weitere Links
 
 - [Weitere Veröffentlichungen auf der Projektwebseite](http://timetracker.cc/creative-corporation/press/). · Projekt: Time Tracker
-
-
-## Präsentationen
-
-Die folgenden Konferenzen werden auf der TimeTracker-Projektwebseite genannt. Ob Hannes Buchwald jeweils selbst vorgetragen hat, ist damit nicht belegt.
-
-### 2018
-
-- [GEWISOLA 2018 Conference](http://www.gewisola2018.uni-kiel.de/de) — 58. GEWISOLA-Jahrestagung, Kiel, 12.–14. September 2018.
-- [30th International Conference of Agricultural Economists](http://www.icae2018.com/) — IAAE, Vancouver, 28. Juli–2. August 2018.
-- [ICBAR 2018](http://www.worldbank.org/en/events/2017/10/11/disruptive-innovations-value-chains-and-rural-development) — International Consortium on Applied Bioeconomy Research, Weltbank, Washington, D.C., 12.–15. Juni 2018 laut Projektwebseite. Die verlinkte URL enthält 2017; diese Abweichung ist noch ungeprüft.
-- [GIL 2018 Conference](https://www.gil-net.de/Tagung/) — GIL-Jahrestagung, Kiel, 26.–27. Februar 2018.
 
 
 ## Künstlerische Projektquellen
