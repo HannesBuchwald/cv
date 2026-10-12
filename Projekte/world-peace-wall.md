@@ -6,7 +6,6 @@ tags: [Kunst, Street-Art, Friedensprojekt, Zusammenarbeit]
 period: "2010"
 role: Fotograf
 location: Cluj-Napoca, Rumänien
-artist: Julian Vogel
 image: https://julianvogel.me/assets/images/7/wpw_romania-3de38bc5.jpg
 image_credit: Hannes Buchwald
 image_source: https://julianvogel.me/cluj-napoca
